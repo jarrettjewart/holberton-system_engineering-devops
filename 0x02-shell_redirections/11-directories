@@ -1,2 +1,2 @@
 #!/bin/bash
-find -type da | wc -la
+find * -type d | wc -la
