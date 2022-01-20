@@ -1,4 +1,5 @@
 #!/usr/bin/env bash
+#Q5 Echo 1-10 
 x=1
 while [ $x -le 10 ]
 do

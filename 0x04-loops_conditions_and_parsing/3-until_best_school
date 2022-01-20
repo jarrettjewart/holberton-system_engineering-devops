@@ -1,4 +1,5 @@
 #!/usr/bin/env bash
+#Q3 Echo Best School "Until
 count=10
 x=1
 until [ $x -gt $count ]; do
