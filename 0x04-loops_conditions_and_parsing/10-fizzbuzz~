@@ -1,0 +1,9 @@
+#!/usr/bin/env bash
+#Q10 "BashScriptto100"
+num=1
+for num in range(1,21):
+	   if num % 3 is 0:
+	      echo "Fizz"
+	      else:
+	      echo "$num"
+	      
