@@ -1,0 +1,3 @@
+#!/usr/bin/env bash
+#Script to display along with process names with "Bash"
+pgrep -f "bash"
