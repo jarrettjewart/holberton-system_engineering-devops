@@ -1,5 +1,5 @@
 #!/usr/bin/env bash
 #Script Displaying Lines With the Word "Bash"
 # shellcheck disable=SC2009
-ps aux | less
+ps auxf | grep bash
 
